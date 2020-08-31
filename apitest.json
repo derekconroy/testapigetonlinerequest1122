@@ -3,6 +3,5 @@
   "portIN": "3389",
   "portOUT":"12345",
   "password":"testtest123",
-  "connect": "22",
- "cmd": "ipconfig"
+  "connect": "22"
 }
