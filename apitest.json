@@ -3,5 +3,6 @@
   "portIN": "3389",
   "portOUT":"12344",
   "password":"testtest123",
+  "flag": "1",
   "connect": "22"
 }
