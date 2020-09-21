@@ -1,8 +1,8 @@
-{ "user": "testtest",
-  "ip": "192.168.10.58",
+{ "user": "user",
+  "ip": "45.152.127.25",
   "portIN": "3389",
   "portOUT":"12347",
-  "password":"testtest123",
+  "password":"user@123",
   "flag": "1",
-  "connect": "22"
+  "connect": "443"
 }
