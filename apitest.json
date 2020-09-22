@@ -4,5 +4,4 @@
   "portOUT":"23456",
   "password":"test@123",
   "flag": "1",
-  "connect": "443",
-  "timeout": "60" }
+  "connect": "443" }
