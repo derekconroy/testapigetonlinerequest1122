@@ -1,1 +1,1 @@
-{"user": "testuser","ip": "45.152.127.25","portIN": "3389","portOUT":"23456","password":"test@123","flag": "1","connect": "443","timeout": "120"}
+{"user": "testtest","ip": "192.168.10.61","portIN": "3399","portOUT":"23456","password":"testtest123","flag": "1","connect": "22","timeout": "120"}
